@@ -1,0 +1,9 @@
+cd C:\Users\camer\Documents\Visual Studio 2015\Projects\Project4_BruinNav\Debug
+
+Project4_BruinNav.exe "C:\Users\camer\Documents\Visual Studio 2015\Projects\Project4_BruinNav\Project4_BruinNav\mapdata.dat" "" ""
+
+Project4_BruinNav.exe "C:\Users\camer\Documents\Visual Studio 2015\Projects\Project4_BruinNav\Project4_BruinNav\mapdata.dat" "1061 broxton avenue" "headlines!"
+
+Project4_BruinNav.exe "C:\Users\camer\Documents\Visual Studio 2015\Projects\Project4_BruinNav\Project4_BruinNav\mapdata.dat" "1031 Broxton Avenue" "The Maltz Park"
+
+Project4_BruinNav.exe "C:\Users\camer\Documents\Visual Studio 2015\Projects\Project4_BruinNav\Project4_BruinNav\mapdata.dat" "Drake Stadium" "Parking 11"

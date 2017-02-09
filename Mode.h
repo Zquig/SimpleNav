@@ -1,0 +1,6 @@
+#pragma once
+
+// STUDENTS: YOU MUST NOT MODIFY ANY CODE IN THIS FILE
+
+//#define TESTER
+//#define DEBUG
